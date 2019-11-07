@@ -16,20 +16,14 @@ span {
     margin: 5px;
 }
 
-.row {
-    text-align: center;
-    width: 150px;
-    height: 150px;
-    display: table;
-    margin: 5px;
-}
-
 div.sve {
+    text-align: center;
     border: 1px solid;
     padding: 5px;
     width: 160px;
     display: table-cell;
-    margin: auto 2%;
+    margin: 5px;
+    float: left;
 }
 
 img {
