@@ -1,0 +1,47 @@
+body {
+    background-color: #e0e0e0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: #f03030;
+}
+span {
+    font-size: 14pt;
+    
+}
+.polok {
+    float: right; 
+    border-style: outset;
+    border-color: #f03030;
+    padding: 5px;
+    margin: 5px;
+}
+.row {
+    text-align:center;
+    width: 150px;
+    height: 150px;
+    display: table;
+    margin: 5px;
+  
+}
+
+
+div.sve{
+    border-style: solid;
+    padding: 5px;
+    width: 160px;
+    display: table-cell;  
+}
+
+
+img {
+    float: initial;
+    width: 150px;
+    height: 150px;
+}
+#slika1 {
+    width: 100%;
+    height: 100%;
+}
+#slika2 {
+    width: 100%;
+    height: 100%;
+}
