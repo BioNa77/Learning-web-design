@@ -36,3 +36,15 @@ img {
 img:hover {
     border: 1px solid #f03030;
 }
+
+#slika1 {
+    width: 100%;
+    height: 100%;
+}
+
+#slika2 {
+    width: 100%;
+    height: 100%;
+}
+
+#slika3 {}
