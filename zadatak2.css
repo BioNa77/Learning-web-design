@@ -2,6 +2,7 @@ body {
     background-color: #e0e0e0;
     font-family: Georgia, 'Times New Roman', Times, serif;
     color: #f03030;
+    text-align: justify;
 }
 
 span {
@@ -10,7 +11,7 @@ span {
 
 .polok {
     float: right;
-    border-style: outset;
+    border: 1px solid;
     border-color: #f03030;
     padding: 5px;
     margin: 5px;
@@ -26,14 +27,14 @@ div.sve {
     float: left;
 }
 
-img {
+.velike-slike {
     float: initial;
     width: 150px;
     height: 150px;
     border: 1px solid white;
 }
 
-img:hover {
+.velike-slike:hover {
     border: 1px solid #f03030;
 }
 
@@ -47,4 +48,20 @@ img:hover {
     height: 100%;
 }
 
-#slika3 {}
+.slika3 {
+    float: right;
+    width: 70%;
+    height: 30%;
+}
+
+.slika3:hover {
+    border: 1px solid #f03030;
+    padding: 5px;
+}
+
+#zadatak3 {
+    margin: 5px;
+    text-align: justify;
+}
+
+.picdiv {}
